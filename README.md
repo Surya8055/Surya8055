@@ -191,16 +191,16 @@
 <h3>🛠 Projects</h3>
 <ul>
     <li><b>Mapping the Landscape of Generative AI Research through Web of Science</b>  
-        - <a href="https://github.com/Surya8055/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science/blob/main/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science.ipynb">Generative AI Research</a>
+        - <a href="https://github.com/Surya8055/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science">Generative AI Research</a>
     </li>
     <li><b>Time Series Analysis with Bar Crawl Dataset</b>  
-        - <a href="https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl/blob/main/Time_Series_Analysis_with_bar_crawl.ipynb">Time Series Analysis with Bar Crawl</a>
+        - <a href="https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl">Time Series Analysis with Bar Crawl</a>
     </li>
     <li><b>Clustering, Urban Spatial Order: Street Network Orientation, Configuration, and Entropy</b>  
-        - <a href="https://github.com/Surya8055/Segmentation-of-Urban-spatial-order-street-network-orientation-configuration-and-entropy/blob/main/USO_Segmentation/USO_Segmentation.ipynb">Segmentation of Urban Spatial Order</a>
+        - <a href="https://github.com/Surya8055/Segmentation-of-Urban-spatial-order-street-network-orientation-configuration-and-entropy">Segmentation of Urban Spatial Order</a>
     </li>
     <li><b>Amusement Park Analytics</b>  
-        - <a href="https://github.com/Surya8055/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks/blob/main/Customer%20Behavior%20in%20Amuesment%20Parks/MySQL_Implementation.ipynb">Analyzing Customer Behavior in Amusement Parks</a>
+        - <a href="https://github.com/Surya8055/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks">Analyzing Customer Behavior in Amusement Parks</a>
     </li>
 </ul>
 
