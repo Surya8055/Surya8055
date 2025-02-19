@@ -15,7 +15,7 @@
 
 <h3>Education</h3>
 <h4>Northeastern University</h4>
-<p><strong>Master of Science - MS, Data Analytics Engineering</strong> | August 2023 - May 2025</p>
+<p><strong>Master of Science - Data Analytics Engineering</strong> | August 2023 - May 2025</p>
 <ul>
     <li>Key Courses: 
         <ul>
