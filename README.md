@@ -6,11 +6,45 @@
     I am a Data Scientist passionate about applying Machine Learning (ML), Natural Language Processing (NLP), and Generative AI to real-world data challenges. Currently pursuing a Master's in Data Analytics Engineering from Northeastern University, I specialize in data manipulation, cleaning, visualization, and machine learning. My goal is to leverage data-driven insights to solve complex business problems and optimize processes.
 </p>
 
-<h3>🎓 Education</h3>
+<h3>🌱 Open to Full-Time Opportunities</h3>
+<p>I am actively seeking full-time opportunities in Data Science, Machine Learning, and AI, especially in Retail or Supply Chain sectors, where I can contribute to building intelligent data solutions and help businesses grow through data-driven insights.</p>
+
+<p><a href="https://outlook.office.com/bookwithme/user/10a66a415f414e15bd59fecabb8d45d6@northeastern.edu/meetingtype/ANrpiQTYP0i3V8cOv7mUTw2?anonymous&ep=mLinkFromTile" target="_blank" style="text-decoration: none; color: #0078d4; font-weight: bold;">📅 Book a Meeting with me</a></p>
+
+
+
+<h3>Education</h3>
+<h4>Northeastern University</h4>
+<p><strong>Master of Science - MS, Data Analytics Engineering</strong> | August 2023 - May 2025</p>
 <ul>
-    <li><strong>Master of Science in Data Analytics Engineering | Northeastern University</strong> (August 2023 - May 2025)</li>
-    <li><strong>Bachelor of Technology in Electronics and Communication Engineering | PES University</strong> (2018 - 2022)</li>
+    <li>Key Courses: 
+        <ul>
+            <li>Applied Generative AI</li>
+            <li>Applied Natural Language Processing</li>
+            <li>Data Mining Engineering</li>
+            <li>Data Management for Analytics</li>
+            <li>Operational Research</li>
+            <li>Foundations of Data Analytics</li>
+            <li>Computation and Visualization for Analytics</li>
+            <li>Financial Management</li>
+        </ul>
+    </li>
 </ul>
+
+<h4>PES University</h4>
+<p><strong>Bachelor of Technology - BTech, Electronics and Communication Engineering</strong> | 2018 - 2022</p>
+<ul>
+    <li>Key Courses: 
+        <ul>
+            <li>Digital Signal Processing</li>
+            <li>Probability for Engineers</li>
+            <li>Operating Systems</li>
+            <li>Computer Communication Networks</li>
+            <li>Linear Algebra</li>
+        </ul>
+    </li>
+</ul>
+
 
 <h3>🔧 Skills & Technologies</h3>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -20,29 +54,39 @@
     </tr>
     <tr>
         <td><strong>Programming Languages</strong></td>
-        <td>Python, SQL</td>
+        <td>Python, SQL, MATLAB</td>
     </tr>
     <tr>
-        <td><strong>Data Science Libraries</strong></td>
-        <td>TensorFlow, Scikit-learn, XGBoost, Prophet, CatBoost</td>
+        <td><strong>Data Science & Machine Learning</strong></td>
+        <td>Generative AI, Natural Language Processing (NLP), Time Series Forecasting, Regression, Classification, Clustering, Feature Engineering, LSTM, Text Classification</td>
+    </tr>
+    <tr>
+        <td><strong>Data Science Libraries & Tools</strong></td>
+        <td>Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost, CatBoost, Prophet, STLF, ARIMA</td>
+    </tr>
+    <tr>
+        <td><strong>AI & NLP Frameworks</strong></td>
+        <td>Hugging Face, LangChain, Prompt Engineering, Chatbot Development</td>
     </tr>
     <tr>
         <td><strong>Data Visualization</strong></td>
-        <td>Power BI, Tableau</td>
+        <td>Power BI, Tableau, Matplotlib, Seaborn</td>
     </tr>
     <tr>
-        <td><strong>NLP Models</strong></td>
-        <td>BERT, T5</td>
+        <td><strong>Cloud & Deployment</strong></td>
+        <td>AWS (Lambda, API Gateway), Snowflake</td>
     </tr>
     <tr>
-        <td><strong>Machine Learning</strong></td>
-        <td>Regression, Classification, Time Series Forecasting</td>
+        <td><strong>Big Data & Databases</strong></td>
+        <td>SQL, Snowflake, IBPL (Intelligent Business Planning Language)</td>
     </tr>
     <tr>
-        <td><strong>Data Handling</strong></td>
-        <td>Data Cleaning, Feature Engineering, EDA</td>
+        <td><strong>Development & Tools</strong></td>
+        <td>Jupyter Notebook, Google Colab, Git, GitHub, JIRA, Confluence</td>
     </tr>
 </table>
+
+
 
 
 <h3>💼 Experience</h3>
@@ -54,80 +98,119 @@
     <li>Provide guidance on research projects and help with data processing tasks.</li>
 </ul>
 
-<h4>Data Science - Graduate Intern | o9 Solutions, Inc.</h4>
+<h4><u><strong>Data Science - Graduate Intern | o9 Solutions, Inc.</strong></u></h4>
 <p><strong>June 2024 - August 2024</strong> | Texas, United States</p>
+<p>During my internship at o9 Solutions, I worked closely with the demand planning team on a large-scale sales forecasting project for a global client, covering <strong>XX markets</strong> and <strong>YY products</strong>, dealing with over a million records of data. I achieved <strong>89%</strong> forecast accuracy, improving demand planning and decision-making processes.</p>
+
+<h5><strong>Key Responsibilities:</strong></h5>
 <ul>
-    <li>Achieved 89% forecast accuracy in a large-scale sales forecasting project for a global client.</li>
-    <li>Worked with the demand planning team on forecasting for different markets and products.</li>
-    <li>Developed machine learning models using Prophet, ARIMA, XGBoost, and other techniques for sales predictions.</li>
-    <li>Handled data challenges, such as incomplete datasets and market-specific variations in forecasts.</li>
-    <li>Contributed to optimizing model performance for better decision-making and business impact.</li>
+    <li>Conducted extensive <strong>Exploratory Data Analysis (EDA)</strong> to uncover patterns and insights critical for developing accurate forecasting models.</li>
+    <li>Developed and implemented machine learning models using <strong>Prophet</strong>, <strong>STLF</strong>, <strong>ARIMA</strong>, <strong>Random Forest</strong>, <strong>CatBoost</strong>, and <strong>XGBoost</strong> to forecast sales, achieving an accuracy of <strong>89%</strong>.</li>
+    <li>Tackled challenges such as incomplete data and variation in model performance across different markets, tailoring solutions for each market to enhance forecast accuracy.</li>
+    <li>Worked with advanced machine learning techniques and contributed to troubleshooting and configuring complex systems to ensure effective model deployment.</li>
+    <li>Played a key role in optimizing and refining machine learning models, leading to performance improvements across various markets.</li>
 </ul>
 
-<h4>Associate Data Scientist | Anko</h4>
-<p><strong>August 2022 - August 2023</strong> | Bengaluru, Karnataka, India</p>
+<h5><strong>Key Achievements:</strong></h5>
 <ul>
-    <li>Reduced shipping costs by $18M by forecasting the number of containers to be booked, improving the supply chain’s cost efficiency.</li>
-    <li>Built machine learning models with 93-96% accuracy to prevent costly penalties in international shipments.</li>
-    <li>Worked on AWS cloud deployment for real-time use of the solution, connecting it to business endpoints.</li>
-    <li>Conducted comprehensive analysis of lead times and developed Power BI dashboards to monitor key supply chain KPIs.</li>
-    <li>Designed Power BI dashboards for finance teams to track metrics like Google Analytics and profits.</li>
+    <li>Achieved <strong>87%</strong> forecast accuracy in sales predictions, contributing to better demand planning and decision-making processes for the client.</li>
+    <li>Successfully implemented different models tailored to specific markets, leading to higher accuracy and client satisfaction.</li>
 </ul>
+
+<h5><strong>Tools & Technologies:</strong></h5>
+<ul>
+    <li><strong>Python</strong>, <strong>Jupyter Notebook</strong>, <strong>o9 Tenant</strong>, <strong>IBPL (Intelligent Business Planning Language)</strong>, <strong>Machine Learning models</strong> (STLF, ARIMA, XGBoost, etc.)</li>
+</ul>
+
+<p>This internship has strengthened my skills in data science, particularly in the areas of <strong>machine learning</strong> and <strong>data analysis</strong>, and has given me practical experience in handling real-world, large-scale datasets.</p>
+
+
+<h4><u><strong>Associate Data Scientist | Anko</strong></u></h4>
+<p><strong>August 2022 - August 2023</strong> | India</p>
+<p>At Anko, I played a key role in reducing shipping costs by <strong>$18M (USD)</strong> by predicting the number of containers to be booked with logistics vendors. This helped the International supply chain team avoid paying penalties for spot booking of containers. The solution was built using various algorithms based on statistics and probability, achieving an accuracy of <strong>93-96%</strong>. The solution was deployed on <strong>AWS cloud</strong>, accessible through an endpoint URL.</p>
+
+<h5><strong>Key Responsibilities:</strong></h5>
+<ul>
+    <li>Conducted comprehensive analysis of <strong>lead times</strong>, assessing the duration it takes for the supply chain to transport purchase orders from global origins to Australia and New Zealand.</li>
+    <li>Engaged in end-to-end <strong>supply chain analysis</strong>, encompassing production and sailing timelines.</li>
+    <li>Executed data cleaning and modeling processes to construct <strong>PowerBI dashboards</strong>, empowering the supply chain team to validate key performance indicators (KPIs) such as <strong>Lead Time</strong>, <strong>Accuracy of Predicted Purchase Orders</strong>, and <strong>Nomination Baseline</strong>.</li>
+    <li>Conducted thorough <strong>dashboard validations</strong> by fetching data from <strong>Snowflake</strong>.</li>
+</ul>
+
+<h5><strong>Key Achievements:</strong></h5>
+<ul>
+    <li>Reduced shipping costs by <strong>$18M (USD)</strong> through accurate predictions of container bookings, avoiding penalties for the International supply chain team.</li>
+    <li>Built and deployed a highly accurate solution that was consumed via an endpoint URL by business teams on AWS Cloud.</li>
+</ul>
+
+<h5><strong>Tools & Technologies:</strong></h5>
+<ul>
+    <li><strong>Python</strong>, <strong>AWS Cloud</strong>, <strong>PowerBI</strong>, <strong>Snowflake</strong>, <strong>Machine Learning Algorithms</strong>, <strong>Statistics and Probability</strong></li>
+</ul>
+
+<p>This role allowed me to optimize supply chain operations and provided valuable experience in end-to-end logistics analysis, machine learning model deployment, and cloud solutions.</p>
+
+<h5><strong>Appreciation Certificate:</strong></h5>
+<p><a href="https://github.com/Surya8055/AnkoAppreciation/blob/main/README.md" target="_blank">View Appreciation Certificate</a></p>
+
 
 <h4>Intern - Data Science and Analytics | Anko</h4>
-<p><strong>January 2022 - July 2022</strong> | India</p>
+<p><strong>January 2022 - July 2022</strong> | Bengaluru, Karnataka, India</p>
 <ul>
-    <li>Developed an organizational chatbot to retrieve product lifecycle data, improving operational efficiency.</li>
-    <li>Built ML models with geo-fitter capabilities to identify lapsing customers, enhancing customer retention strategies.</li>
-    <li>Created Power BI reports to analyze KPIs, including stock levels, profits, and budget across different buying groups.</li>
+    <li>Built an organizational chatbot to retrieve product lifecycle data and manage real-time stock availability.</li>
+    <li>Designed a machine learning model with beta geo-fitter capabilities for identifying lapsing customers.</li>
+    <li>Developed Power BI reports for finance teams, helping analyze key metrics such as Google Analytics, budget, stock on hand, and profits.</li>
 </ul>
 
 <h4>Research Project Intern | ISRO - Indian Space Research Organization</h4>
 <p><strong>August 2021 - November 2021</strong> | Bengaluru, Karnataka, India</p>
 <ul>
-    <li>Mapped images to identify satellite positions using AI concepts, contributing to space exploration research.</li>
-    <li>Developed a method for satellite coordinate retrieval using image convolution and correlation techniques, improving accuracy.</li>
-    <li>Integrated FPGA to optimize the satellite positioning process, reducing clock cycles by 1000 compared to software programming.</li>
-    <li>Designed Finite State Machines using VHDL and MATLAB for FPGA implementation.</li>
+    <li>Mapped satellite images to identify satellite positions using AI concepts.</li>
+    <li>Invented a method to retrieve satellite coordinates using image convolution and correlation techniques.</li>
+    <li>Worked with FPGA to optimize code performance, reducing clock cycle consumption.</li>
+    <li>Developed Finite State Machines using VHDL and MATLAB, implemented on FPGA platforms.</li>
 </ul>
 
 <h4>Wedding Planner - Coordinator | Panigrahana Weddings</h4>
 <p><strong>January 2020 - March 2020</strong> | Bengaluru, Karnataka, India</p>
 <ul>
-    <li>Coordinated and executed seamless weddings, managing logistics, décor, and communication between clients and vendors.</li>
-    <li>Created event schedules and floor plans to ensure smooth execution of the events.</li>
+    <li>Coordinated various aspects of the wedding process, including venue selection, décor, and entertainment.</li>
+    <li>Created detailed event timelines and schedules to ensure smooth event execution.</li>
+    <li>Handled logistics such as transportation and set-up, maintaining efficient event flow.</li>
 </ul>
 
 <h4>Teaching Assistant | PES University</h4>
-<p><strong>August 2019 - December 2019</strong> | Bangalore Urban, Karnataka, India</p>
+<p><strong>August 2019 - December 2019</strong> | Bengaluru, Karnataka, India</p>
 <ul>
-    <li>Graded assignments and helped students with calculus, algebra, and statistics problems.</li>
-    <li>Developed PowerPoint presentations and contributed to the professor’s research projects.</li>
+    <li>Assisted with grading and problem-solving tasks for 360 students under the guidance of the supervising professor.</li>
+    <li>Created PowerPoint presentations to aid in delivering effective lectures.</li>
+    <li>Contributed to research in calculus, algebra, and statistics.</li>
 </ul>
+
 
 <h3>🛠 Projects</h3>
 <ul>
+    <li><b>Mapping the Landscape of Generative AI Research through Web of Science</b>  
+        - <a href="https://github.com/Surya8055/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science/blob/main/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science.ipynb">Generative AI Research</a>
+    </li>
+    <li><b>Time Series Analysis with Bar Crawl Dataset</b>  
+        - <a href="https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl/blob/main/Time_Series_Analysis_with_bar_crawl.ipynb">Time Series Analysis with Bar Crawl</a>
+    </li>
     <li><b>Clustering, Urban Spatial Order: Street Network Orientation, Configuration, and Entropy</b>  
         - <a href="https://github.com/Surya8055/Segmentation-of-Urban-spatial-order-street-network-orientation-configuration-and-entropy/blob/main/USO_Segmentation/USO_Segmentation.ipynb">Segmentation of Urban Spatial Order</a>
     </li>
     <li><b>Amusement Park Analytics</b>  
         - <a href="https://github.com/Surya8055/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks/blob/main/Customer%20Behavior%20in%20Amuesment%20Parks/MySQL_Implementation.ipynb">Analyzing Customer Behavior in Amusement Parks</a>
     </li>
-    <li><b>Time Series Analysis with Bar Crawl Dataset</b>  
-        - <a href="https://github.com/Surya8055/Time-Series-Analysis-with-bar-crawl/blob/main/Time_Series_Analysis_with_bar_crawl.ipynb">Time Series Analysis with Bar Crawl</a>
-    </li>
-    <li><b>Mapping the Landscape of Generative AI Research through Web of Science</b>  
-        - <a href="https://github.com/Surya8055/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science/blob/main/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science.ipynb">Generative AI Research</a>
-    </li>
 </ul>
 
-<h3>🏆 Certifications</h3>
+<h3>📜 Certifications</h3>
 <ul>
-    <li>Power BI Master Class - Data Models and DAX Formulas 2022</li>
-    <li>Artificial Intelligence A-Z™: Learn How to Build an AI</li>
-    <li>Learn German Language: Complete German Course - Beginners</li>
-    <li>The Data Analyst Course: Complete Data Analyst Bootcamp</li>
-    <li>Databases and SQL for Data Science with Python</li>
+    <li>The Data Analyst Course: Complete Data Analyst Bootcamp - <a href="https://www.udemy.com/certificate/UC-731cbba4-d79e-4b41-8108-99f3ad267d25/" target="_blank">View Certificate</a></li>
+    <li>Power BI Master Class - Data Models and DAX Formulas 2022 - <a href="https://www.udemy.com/certificate/UC-8184136c-361b-4d3d-8642-55426bf59ecd/" target="_blank">View Certificate</a></li>
+    <li>Artificial Intelligence A-Z™: Learn How to Build an AI - <a href="https://www.udemy.com/certificate/UC-5b9ee955-2e92-4be2-acf2-417354a59fea/" target="_blank">View Certificate</a></li>
+    <li>Databases and SQL for Data Science with Python - <a href="https://www.coursera.org/account/accomplishments/certificate/DXD3EMH3SFS9" target="_blank">View Certificate</a></li>
+    <li>Learn German Language: Complete German Course - Beginners - <a href="https://www.udemy.com/certificate/UC-7d6bdf2f-e941-4c9c-b89e-b877dd3525ce/" target="_blank">View Certificate</a></li>
 </ul>
 
 <h3>🌍 Languages</h3>
@@ -138,54 +221,31 @@
     <li>German (Elementary)</li>
 </ul>
 
-<h3>📬 Contact Information</h3>
+<h3>📞 Contact</h3>
 <ul>
-    <li><strong>Email:</strong> vinaykumar.s@northeastern.edu</li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/surya-v-kumar">linkedin.com/in/surya-v-kumar</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/Surya8055">github.com/Surya8055</a></li>
+    <li>📍 Boston, Massachusetts, USA</li>
+    <li>✉️ <a href="mailto:vinaykumar.s@northeastern.edu">vinaykumar.s@northeastern.edu</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/surya-v-kumar" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="16"> LinkedIn</a>
+    </li>
+    <li>💻 <a href="https://github.com/Surya8055" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/24/733/733553.png" width="16"> GitHub</a>
+    </li>
+    <li>📅 <a href="https://outlook.office.com/bookwithme/user/10a66a415f414e15bd59fecabb8d45d6@northeastern.edu/meetingtype/ANrpiQTYP0i3V8cOv7mUTw2?anonymous&ep=mLinkFromTile" target="_blank" style="text-decoration: none; color: #0078d4; font-weight: bold;">Book a Meeting with me</a></li>
 </ul>
 
-<h3>🌱 Open to Full-Time Opportunities</h3>
-<p>I am actively seeking full-time opportunities in Data Science, Machine Learning, and AI, especially in Retail or Supply Chain sectors, where I can contribute to building intelligent data solutions and help businesses grow through data-driven insights.</p>
 
 <h3>💬 Let's Connect</h3>
 <p>Feel free to reach out to me if you're interested in collaborating on machine learning, data analytics, or AI projects!</p>
 
+<h3>LinkedIn Recommendations</h3>
+<p>I am honored to have received feedback from my mentors at Anko. Here are some kind words from the people who worked closely with me:</p>
 
+<h4>Gaurav S M (Lead Data Scientist at Anko):</h4>
+<p><em>"I worked with Surya closely for almost a year. In his first project, he demonstrated his ability to quickly grasp data science concepts and work with complex data systems. His ability to analyze data, develop models, and extract valuable insights greatly contributed to the success of our team. His willingness to learn and his strong communication skills set him apart."</em></p>
 
+<h4>Roselin George (Head of Data Science at Anko):</h4>
+<p><em>"I hired Surya as an intern straight out of college. From the first day, I knew there was a spark in him. He was extremely professional, a quick learner, and had a keen sense of urgency to succeed. Surya went above and beyond my expectations during his internship and was made a permanent member of my team. His ability to work independently on a complex project was remarkable. He excelled at problem-solving and was proficient in a wide array of tools like SQL, Python, Excel, and Power BI."</em></p>
 
+<a href="https://www.linkedin.com/in/surya-v-kumar" target="_blank">View on LinkedIn</a></p>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
