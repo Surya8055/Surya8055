@@ -3,7 +3,7 @@
 <p>📍 Boston, MA, USA | 🏫 MS in Data Analytics Engineering @ Northeastern University</p>
 
 <p>
-    I am a Data Scientist passionate about applying Machine Learning (ML), Natural Language Processing (NLP), and Generative AI to real-world data challenges. Currently pursuing a Master's in Data Analytics Engineering from Northeastern University, I specialize in data manipulation, cleaning, visualization, and machine learning. My goal is to leverage data-driven insights to solve complex business problems and optimize processes.
+    I am a Data Scientist passionate about applying Machine Learning (ML), Natural Language Processing (NLP), and Generative AI to real-world data challenges. Currently pursuing a Master's in Data Analytics Engineering from Northeastern University, I specialize in data manipulation, cleaning, visualization, and machine learning. My goal is to leverage data-driven insights to solve complex business problems and optimize processes using AI.
 </p>
 
 <h3>🌱 Open to Full-Time Opportunities</h3>
