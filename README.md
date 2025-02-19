@@ -32,7 +32,7 @@
 </ul>
 
 <h4>PES University</h4>
-<p><strong>Bachelor of Technology - BTech, Electronics and Communication Engineering</strong> | 2018 - 2022</p>
+<p><strong>Bachelor of Technology - Electronics and Communication Engineering</strong> | 2018 - 2022</p>
 <ul>
     <li>Key Courses: 
         <ul>
@@ -113,7 +113,7 @@
 
 <h5><strong>Key Achievements:</strong></h5>
 <ul>
-    <li>Achieved <strong>87%</strong> forecast accuracy in sales predictions, contributing to better demand planning and decision-making processes for the client.</li>
+    <li>Achieved <strong>89%</strong> forecast accuracy in sales predictions, contributing to better demand planning and decision-making processes for the client.</li>
     <li>Successfully implemented different models tailored to specific markets, leading to higher accuracy and client satisfaction.</li>
 </ul>
 
@@ -215,8 +215,8 @@
 
 <h3>🌍 Languages</h3>
 <ul>
-    <li>English (Professional Working)</li>
-    <li>Hindi (Professional Working)</li>
+    <li>English (Professional Working Proficiency)</li>
+    <li>Hindi (Professional Working Proficiency)</li>
     <li>Kannada (Native or Bilingual)</li>
     <li>German (Elementary)</li>
 </ul>
