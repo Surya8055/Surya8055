@@ -190,6 +190,9 @@
 
 <h3>🛠 Projects</h3>
 <ul>
+    <li><b>AI Agents</b>  
+        - <a href="https://github.com/Surya8055/AI-Agents.git">AI powered Chatbots</a>
+    </li>
     <li><b>Mapping the Landscape of Generative AI Research through Web of Science</b>  
         - <a href="https://github.com/Surya8055/Mapping-the-Landscape-of-Generative-AI-Research-through-Web-of-Science">Generative AI Research</a>
     </li>
