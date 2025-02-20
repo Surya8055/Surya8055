@@ -100,7 +100,7 @@
 
 <h4><u><strong>Data Science - Graduate Intern | o9 Solutions, Inc.</strong></u></h4>
 <p><strong>June 2024 - August 2024</strong> | Texas, United States</p>
-<p>During my internship at o9 Solutions, I worked closely with the demand planning team on a large-scale sales forecasting project for a global client, covering <strong>XX markets</strong> and <strong>YY products</strong>, dealing with over a million records of data. I achieved <strong>89%</strong> forecast accuracy, improving demand planning and decision-making processes.</p>
+<p>During my internship at o9 Solutions, I worked closely with the demand planning team on a large-scale pharmaceutical sales forecasting project for a global client, covering <strong>XX markets</strong> and <strong>YY products</strong>, dealing with over a million records of data. I achieved <strong>89%</strong> forecast accuracy, improving demand planning and decision-making processes.</p>
 
 <h5><strong>Key Responsibilities:</strong></h5>
 <ul>
